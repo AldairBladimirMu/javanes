@@ -17,7 +17,7 @@ public class holaSSO {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.print("vientos si esta quedando");
+		System.out.print("https://github.com/javanessolutions/jn-quarkus-base");
 		
 		String url = "http://app.personal-tasks.com:8080/auth/realms/master/protocol/openid-connect/token";
 
