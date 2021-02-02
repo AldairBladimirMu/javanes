@@ -17,7 +17,7 @@ public class holaSSO {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//System.out.print("Hola SSO");
+		System.out.print("Hola ALDAIR, TU PUEDES, ANDA SOLO TEN FE EN TI");
 		
 		String url = "http://app.personal-tasks.com:8080/auth/realms/master/protocol/openid-connect/token";
 
